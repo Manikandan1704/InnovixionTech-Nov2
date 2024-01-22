@@ -1,1 +1,1 @@
-# InnovixionTech-Nov2
+Hello !!! Welcome to my Profile. This Repository which I Created for Innovixion Tech in Full Stack Development Internship tasks. It consists of 2 tasks such as Online Notes Taking App (task 1) , Quiz App (task 2). I divided these tasks as Two files and each file (each task) having its code which includes HTML , CSS & JAVASCRIPT Code.
